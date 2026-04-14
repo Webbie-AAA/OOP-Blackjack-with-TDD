@@ -1,0 +1,71 @@
+./coding_problems/01-monday/test_monday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/01-monday/monday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/02-tuesday/test_tuesday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/02-tuesday/tuesday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/04-thursday/thursday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/04-thursday/test_thursday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/03-wednesday/wednesday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/03-wednesday/test_wednesday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/05-friday/test_friday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./coding_problems/05-friday/friday.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./blockbuster/test_blockbuster_challenge.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./blockbuster/blockbuster_oop.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+************* Module blockbuster_oop
+blockbuster/blockbuster_oop.py:80:12: W0707: Consider explicitly re-raising using 'except ValueError as exc' and 'raise ValueError(f'{self.date_of_birth} is not in DD/MM/YYYY format') from exc' (raise-missing-from)
+blockbuster/blockbuster_oop.py:152:4: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+blockbuster/blockbuster_oop.py:163:11: C0121: Comparison 'self.availability[title] == True' should be 'self.availability[title] is True' if checking for the singleton value True, or 'self.availability[title]' if testing for truthiness (singleton-comparison)
+blockbuster/blockbuster_oop.py:172:11: C0121: Comparison 'self.availability[title] == False' should be 'self.availability[title] is False' if checking for the singleton value False, or 'not self.availability[title]' if testing for falsiness (singleton-comparison)
+blockbuster/blockbuster_oop.py:184:11: C0121: Comparison 'video.is_rewound == False' should be 'video.is_rewound is False' if checking for the singleton value False, or 'not video.is_rewound' if testing for falsiness (singleton-comparison)
+blockbuster/blockbuster_oop.py:196:0: W0612: Unused variable 'DVD' (unused-variable)
+blockbuster/blockbuster_oop.py:208:0: W0612: Unused variable 'VendingMachine' (unused-variable)
+
+-----------------------------------
+Your code has been rated at 9.46/10
+
+./blockbuster/test_blockbuster_trainee.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./blackjack/test_blackjack_oop.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+./blackjack/blackjack_oop.py
+************* Module .pylintrc
+.pylintrc:1:0: E0015: Unrecognized option found: suggestion-mode (unrecognized-option)
+************* Module blackjack_oop
+blackjack/blackjack_oop.py:47:9: W0511: TODO Complete this method so the deck contains all the correct cards (fixme)
+blackjack/blackjack_oop.py:9:8: W0101: Unreachable code (unreachable)
+blackjack/blackjack_oop.py:9:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+blackjack/blackjack_oop.py:18:8: W0101: Unreachable code (unreachable)
+blackjack/blackjack_oop.py:18:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+blackjack/blackjack_oop.py:42:8: W0101: Unreachable code (unreachable)
+blackjack/blackjack_oop.py:42:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+blackjack/blackjack_oop.py:21:0: W0612: Unused variable 'Hand' (unused-variable)
+blackjack/blackjack_oop.py:45:0: W0612: Unused variable 'Deck' (unused-variable)
+
+-----------------------------------
+Your code has been rated at 7.95/10
+
